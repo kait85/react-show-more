@@ -1,5 +1,5 @@
 {
-  "name": "ra-react-show-more",
+  "name": "react-show-more",
   "version": "1.1.1",
   "description": "React component for truncating multi-line spans and adding an ellipsis",
   "main": "lib/ShowMore.js",
@@ -18,9 +18,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:One-com/react-show-more.git"
+    "url": "git@github.com:riseart/react-show-more.git"
   },
-  "homepage": "https://github.com/One-com/react-show-more",
+  "homepage": "https://github.com/riseart/react-show-more",
   "keywords": [
     "react",
     "show more",
@@ -30,7 +30,7 @@
   "author": "Pablo Sichert <kps@one.com>",
   "license": "ISC",
   "peerDependencies": {
-    "react": "<= 15.x.x"
+    "react": "<= 16.x.x"
   },
   "devDependencies": {
     "babel-cli": "^6.22.2",
